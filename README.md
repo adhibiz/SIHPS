@@ -25,13 +25,13 @@ E-waste management plays an important role in protecting :
 
 Environment Conserving resource promoting a healthier and safer world. By reducing, reusing, and recycling electronic devices, we can make a positive impact and pave the way for a sustainable future.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1afc92cd-ce27-49f4-8ae5-1428ea095e3d)
+
 
 
 
 ## Proposed Solution / Architecture Diagram
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e7f0f98b-f76e-428c-b35a-fe142db05d5d)
 
 
 ## Use Cases
