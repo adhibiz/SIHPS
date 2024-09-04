@@ -7,16 +7,16 @@
 **Development of e-Portal for Facilitating Case Management Hearing of Various Types of Cases**
 
 ## Problem Description
-The project involves the development of an e-Portal for facilitating Case Management Hearings, which are referred to as "Pre-Trial Conferences" in other jurisdictions. This portal will manage case files from filing to disposal, ensuring that all related processes are streamlined and efficiently handled. The Case Management System (CMS) will keep records of all cases filed in the Delhi High Court, with features including:
+The project involves the development of an e-Portal for facilitating Case Management Hearings, which are referred to as **"Pre-Trial Conferences"** in other jurisdictions. This portal will manage case files from filing to disposal, ensuring that all related processes are streamlined and efficiently handled. The Case Management System (CMS) will keep records of all cases filed in the Delhi High Court, with features including:
 
-- Filing of Cases
-- Caveat Matching
-- Case Allocation
-- Daily Case Proceedings
-- Notice Generation
-- Case Transfer
-- Case Status Search
-- Report Generation
+- **Filing of Cases**
+- **Caveat Matching**
+- **Case Allocation**
+- **Daily Case Proceedings**
+- **Notice Generation**
+- **Case Transfer**
+- **Case Status Search**
+- **Report Generation**
 
 **Problem Creator's Organization:**  
 Ministry of Law and Justice
