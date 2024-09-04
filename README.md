@@ -34,7 +34,22 @@ The idea is to create a comprehensive e-Portal that streamlines the management o
 - **Real-time Communication:** Implement WebSockets to enable real-time updates and communication between users and the server, such as live updates on case statuses.
 
 ### Architecture Diagram:
-[Insert a visual representation of the architecture here, outlining the components and their interactions.]
+
+
+![image](https://github.com/user-attachments/assets/03c1081e-f7a3-4d99-abde-b4139b6db661)
+
+
+
+
+![image](https://github.com/user-attachments/assets/ec766690-4fe4-4fb2-94c9-79216b5a1464)
+
+
+
+
+
+
+
+
 
 ## Use Cases
 1. **Case Filing:**
